@@ -50,7 +50,7 @@ pip install -r requirements.txt   # You may need to use pip3 instead
 OR
 
 ```shell script
-pip install -r boto3 pyathena     # You may need to use pip3 instead
+pip install boto3 pyathena     # You may need to use pip3 instead
 ```
 
 ## Usage
